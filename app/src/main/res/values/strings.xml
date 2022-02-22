@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Me4wary</string>
+
+
+    <string-array name="names">
+        <item>marina</item>
+        <item>hall 2</item>
+        <item>hall 3</item>
+        <item>hall 4</item>
+        <item>hall 5</item>
+        <item>hall 6</item>
+        <item>hall 7</item>
+        <item>hall 8</item>
+    </string-array>
+    <string-array name="locations">
+        <item>شاطئ التجاريين بأسيوط</item>
+        <item>location2</item>
+        <item>location3</item>
+        <item>location4</item>
+        <item>location5</item>
+        <item>location6</item>
+        <item>location7</item>
+        <item>location8</item>
+    </string-array>
+</resources>
